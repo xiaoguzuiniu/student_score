@@ -1,6 +1,6 @@
 # 学生成绩管理系统
 技术：vue+phthon_flask+element_plus+mysql
-
+**作者QQ：1598289826**
 **登录界面**
 
 ![Snipaste_2024-06-25_08-54-00](https://github.com/xiaoguzuiniu/student_score/assets/158143699/054403b3-fe3f-4645-8e5e-d8f7e7bf6470)
